@@ -55,7 +55,7 @@ export default function TeacherProfile({ match }) {
             <div className="profile-work">
               <h3>INSTITUTES</h3>
               <br />
-              <p>{data.institute}S</p>
+              <p>{data.institute}</p>
               <br />
             </div>
           </div>
