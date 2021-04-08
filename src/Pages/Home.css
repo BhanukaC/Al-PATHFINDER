@@ -1,0 +1,42 @@
+.my-bar {
+  height: 70px;
+  padding-top: 18px;
+  background-color: rgb(26, 25, 56);
+  color: white;
+}
+.my-btn {
+  height: 40px;
+}
+.main-container {
+  margin-top: 40px;
+}
+.my-header {
+  font-weight: bold;
+}
+.my-footer {
+  background-color: rgb(26, 25, 56);
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.social-btn {
+  width: 45px;
+  height: 45px;
+  margin-left: 4px;
+}
+.my-page-header {
+  color: rgb(26, 25, 56);
+}
+.my-box {
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 150px;
+}
+.my-box:hover {
+  opacity: 50%;
+  cursor: pointer;
+}
+
+.bt {
+  margin-bottom: 40px;
+}

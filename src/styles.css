@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+}
+
+.my-container {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
