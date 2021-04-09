@@ -1,4 +1,5 @@
 import React from "react";
+import img from "../assets/girl.jfif";
 
 function About() {
   return (
@@ -53,11 +54,7 @@ function About() {
           </li>
         </ul>
         <br />
-        <img
-          src={require("./../assets/girl.jfif")}
-          alt="studying"
-          className="center"
-        />
+        <img src={img} alt="studying" className="center" />
       </div>
       <div className="names bt">
         <h2> Group Members </h2>
